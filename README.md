@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=42+KL+cadet;rm%20-rf%20*&center=true&width=500&height=50"></a>
 </p>
 
-# 🛠️ Tools
+# Tools
 <br>
 
 <div>
@@ -14,7 +14,7 @@
 	<img alt="Github" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp&nbsp
 </div>
 	
-# 📊 GitHub Stats
+# Stats
 <br>
 
 <p align="center">
