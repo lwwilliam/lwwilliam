@@ -20,9 +20,8 @@
 <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=lwwilliam&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" width="455px" alt="lwwilliam" />
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lwwilliam&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="300px" alt="lwwilliam"/>
-	![](https://komarev.com/ghpvc/?lwwilliam&color=green)
 </p> 
-
+	![](https://komarev.com/ghpvc/?lwwilliam&color=green)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lwwilliam/lwwilliam/blob/main/profile-3d-contrib/profile-night-view.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/lwwilliam/lwwilliam/blob/main/profile-3d-contrib/profile-gitblock.svg">
