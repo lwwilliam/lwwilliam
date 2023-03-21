@@ -18,8 +18,8 @@
 <br>
 
 <p align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwwilliam&theme=tokyonight&hide_border=true&type=png" alt="lwwilliam" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lwwilliam&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="350px" alt="lwwilliam"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwwilliam&theme=tokyonight&hide_border=true&type=png" width="420px" alt="lwwilliam" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lwwilliam&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="300px" alt="lwwilliam"/>
 <br>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=lwwilliam&style=for-the-badge">
