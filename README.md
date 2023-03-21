@@ -20,6 +20,7 @@
 <p align="center">
      <img src="https://github-readme-stats.vercel.app/api?username=lwwilliam&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" width="455px" alt="lwwilliam" />
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lwwilliam&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="300px" alt="lwwilliam"/>
+	![](https://komarev.com/ghpvc/?lwwilliam&color=green)
 </p> 
 
 <picture>
