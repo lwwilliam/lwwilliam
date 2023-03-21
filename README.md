@@ -22,8 +22,8 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lwwilliam&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="300px" alt="lwwilliam"/>
 </p> 
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lwwilliam/lwwilliam/blob/main/profile-3d-contrib/profile-night-view.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/lwwilliam/lwwilliam/blob/main/profile-3d-contrib/profile-gitblock.svg">
   <img alt="github" src="https://github.com/lwwilliam/lwwilliam/blob/main/profile-3d-contrib/profile-night-view.svg" />
-</picture> -->
+</picture>
