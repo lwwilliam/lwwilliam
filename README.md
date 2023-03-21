@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm William</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=42+KL+cadet;rm%20-rf%20*&center=true&width=500&height=50"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile;Currently+a+cadet+in+42KL;rm+-rf+*" alt="Typing SVG" /></a>
 </p>
 
 # Tools
