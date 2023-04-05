@@ -25,7 +25,7 @@
     <img src="https://komarev.com/ghpvc/?username=lwwilliam&style=for-the-badge">
 </a>
 </p>
-<!--
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lwwilliam/lwwilliam/blob/main/profile-3d-contrib/profile-night-view.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/lwwilliam/lwwilliam/blob/main/profile-3d-contrib/profile-gitblock.svg">
