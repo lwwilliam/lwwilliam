@@ -58,11 +58,14 @@
 	<a href="https://tailwindcss.com/">
   	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
 	</a>
-		<a href="https://flask.palletsprojects.com/">
+	<a href="https://flask.palletsprojects.com/">
   	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 	</a>
-		<a href="https://www.mongodb.com/">
+	<a href="https://www.mongodb.com/">
   	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+	</a>
+	<a href="https://nextjs.org/">
+  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 	</a>
 </div>
 	
