@@ -46,6 +46,12 @@
 	<a href="https://github.com/">
 		<img alt="Github" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp&nbsp;
 	</a>
+	<a href="https://www.docker.com/">
+	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+	</a>
+	<a href="https://www.nginx.com/">
+  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
+	</a>
 </div>
 	
 # Stats
