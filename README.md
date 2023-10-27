@@ -17,14 +17,14 @@
 	<a href="https://en.wikipedia.org/wiki/HTML5">
   	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
 	</a>
+	<a href="https://en.wikipedia.org/wiki/CSS">
+  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
+	</a>
 	<a href="https://www.typescriptlang.org/">
 	  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 	</a>
 	<a href="https://www.javascript.com/">
   	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-	</a>
-	<a href="https://en.wikipedia.org/wiki/CSS">
-  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>
 	</a>
 </div>
 
