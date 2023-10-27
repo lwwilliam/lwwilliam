@@ -3,9 +3,30 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+profile;Currently+a+cadet+in+42KL;rm+-rf+*" alt="Typing SVG" /></a>
 </p>
 
+#Language
+<br>
+<div>
+	<a href="https://git-scm.com/">
+		<img alt="Git" style="align:left; width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp&nbsp
+	</a>
+	<a href="https://www.gnu.org/software/bash/">
+		<img alt="Bash" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp&nbsp
+	</a>
+	<a href="https://www.vim.org/">
+		<img alt="VIM" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />&nbsp&nbsp
+	</a>
+	<a href="https://code.visualstudio.com/">
+		<img alt="Visual Studio Code" style="width:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp&nbsp
+	</a>
+	<a href="https://github.com/">
+		<img alt="Github" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp&nbsp
+	</a>
+
+</div>
+
+
 # Tools
 <br>
-
 <div>
 	<a href="https://git-scm.com/">
 		<img alt="Git" style="align:left; width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp&nbsp
