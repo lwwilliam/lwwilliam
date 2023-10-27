@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+profile;Currently+a+cadet+in+42KL;rm+-rf+*" alt="Typing SVG" /></a>
 </p>
 
-# Language
+# Languages
 <div>
 	<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
