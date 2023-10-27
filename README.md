@@ -6,22 +6,10 @@
 # Language
 <br>
 <div>
-	<a href="https://git-scm.com/">
-		<img alt="Git" style="align:left; width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp&nbsp
-	</a>
-	<a href="https://www.gnu.org/software/bash/">
-		<img alt="Bash" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp&nbsp
-	</a>
-	<a href="https://www.vim.org/">
-		<img alt="VIM" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />&nbsp&nbsp
-	</a>
-	<a href="https://code.visualstudio.com/">
-		<img alt="Visual Studio Code" style="width:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp&nbsp
-	</a>
-	<a href="https://github.com/">
-		<img alt="Github" style="width:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />&nbsp&nbsp
-	</a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>
 </div>
 
 
