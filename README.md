@@ -70,6 +70,10 @@
 	<a href="https://wordpress.com/">
   	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 	</a>
+ 	<a href="https://vercel.com/">
+  	<img src="https://www.svgrepo.com/show/361653/vercel-logo.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
+	</a>
+	
 </div>
 	
 # Stats
