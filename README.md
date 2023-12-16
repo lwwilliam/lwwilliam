@@ -55,6 +55,9 @@
 	<a href="https://react.dev/">
   	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 	</a>
+	<a href="https://vuejs.org/">
+  	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vercel" alt="Vue" width="40" height="40"/>&nbsp;
+	</a>
 	<a href="https://tailwindcss.com/">
   	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
 	</a>
