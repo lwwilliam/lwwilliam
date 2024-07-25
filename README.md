@@ -39,7 +39,8 @@
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="40" height="40"/>&nbsp;
 	</a>
 	<a href="https://www.vim.org/">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="VIM" alt="VIM" width="40" height="40"/>&nbsp;
+<!-- 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="VIM" alt="VIM" width="40" height="40"/>&nbsp; -->
+        	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg" title="VIM" alt="VIM" width="40" height="40"/>&nbsp;
 	</a>
 	<a href="https://code.visualstudio.com/">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VScode" width="40" height="40"/>&nbsp;
