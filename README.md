@@ -6,6 +6,9 @@
 
 # Languages
 <div>
+	<a href="https://www.gnu.org/software/bash/">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="40" height="40"/>&nbsp;
+	</a>
 	<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 	</a>
@@ -34,9 +37,6 @@
 <div>
 	<a href="https://git-scm.com/">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-	</a>
-	<a href="https://www.gnu.org/software/bash/">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="40" height="40"/>&nbsp;
 	</a>
 	<a href="https://www.vim.org/">
 <!-- 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="VIM" alt="VIM" width="40" height="40"/>&nbsp; -->
