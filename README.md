@@ -7,7 +7,7 @@
 # Languages
 <div>
 	<a href="https://www.gnu.org/software/bash/">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=bash" title="BASH" alt="BASH" width="40" height="40"/>&nbsp;
 	</a>
 	<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
