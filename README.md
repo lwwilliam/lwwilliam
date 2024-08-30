@@ -59,7 +59,7 @@
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
 	</a>
 	<a href="https://vercel.com/">
-		<img src="https://www.svgrepo.com/show/361653/vercel-logo.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=vercel" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
 	</a>
 </div>
 
@@ -74,7 +74,7 @@
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
 	</a>
 	<a href="https://flask.palletsprojects.com/">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+		<img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 	</a>
 	<a href="https://www.mongodb.com/">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
